@@ -17,3 +17,5 @@ discourse_to_markdown_chunks.py
 preprocess.py
 *.pyc
 .DS_Store
+
+project
