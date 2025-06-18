@@ -20,3 +20,5 @@ preprocess.py
 
 project
 .vercel
+convertor.py
+knowledge_base.db
