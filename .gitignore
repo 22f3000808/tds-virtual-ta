@@ -10,12 +10,13 @@ markdown_files/
 __pycache__/
 venv/
 .venv/
-# discourse_to_markdown_chunks.py
+discourse_to_markdown_chunks.py
 
 # Ignore files
 .env
-# preprocess.py
+preprocess.py
 *.pyc
 .DS_Store
 
 project
+.vercel
